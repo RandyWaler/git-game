@@ -1,3 +1,14 @@
+#Git-Game-Over
+
+通关记录保存在 git-game-over 分支上
+
+建议执行
+
+```
+git checkout git-game-over
+```
+
+
 git-game
 ========
 
